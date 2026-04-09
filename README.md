@@ -15,11 +15,9 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/your-username/project.git
-cd project
-
+git clone https://github.com/chomphunuttt03/ysth-rag-system.git
+cd ysth-rag-system
 pip install -r requirements.txt
-
 
 🚀 How to Run
 py -3.11 app_ui.py
@@ -32,7 +30,7 @@ py -3.11 app_ui.py
 - Which stocks have Buy rating above 100 THB?
 
 🏗️ System Architecture
-User → Gradio UI → Query Engine → Retriever → Vector DB → LLM → Answer
+User → Gradio UI → Query Engine → Retriever → Vector DB → LLM → Answer + Sources
 
 ⚙️ How It Works
 - Documents are loaded from /data
@@ -59,7 +57,7 @@ User → Gradio UI → Query Engine → Retriever → Vector DB → LLM → Answ
 🧑‍💻 Tech Stack
 - Python
 - Gradio
-- LlamaIndex
+- LlamaIndex (RAG orchestration)
 - Embedding Model
 - LLM (Groq)
 

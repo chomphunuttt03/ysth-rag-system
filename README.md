@@ -67,3 +67,6 @@ User → Gradio UI → Query Engine → Retriever → Vector DB → LLM → Answ
 👤 Author
 - Name: Chomphunut Butrdee
 - Email: chomphunutbutrdee2546@gmail.com
+
+## 📸 Demo
+![Demo Screenshot](image.png)

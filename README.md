@@ -68,4 +68,4 @@ User → Gradio UI → Query Engine → Retriever → Vector DB → LLM → Answ
 - Email: chomphunutbutrdee2546@gmail.com
 
 ## 📸 Demo
-![Demo](image.png)
+![Demo Screenshot](./image.png?raw=true)

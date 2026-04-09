@@ -20,12 +20,11 @@ cd project
 
 pip install -r requirements.txt
 
----
+
 🚀 How to Run
 py -3.11 app_ui.py
-
 จากนั้นเปิด: http://127.0.0.1:7860
----
+
 
 💬 Example Questions
 - What is the recommendation for PTT stock? 
@@ -62,7 +61,7 @@ User → Gradio UI → Query Engine → Retriever → Vector DB → LLM → Answ
 - Gradio
 - LlamaIndex
 - Embedding Model
-- LLM (Groq / OpenAI / local model)
+- LLM (Groq)
 
 👤 Author
 - Name: Chomphunut Butrdee

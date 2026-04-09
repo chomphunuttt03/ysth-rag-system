@@ -66,6 +66,3 @@ User → Gradio UI → Query Engine → Retriever → Vector DB → LLM → Answ
 👤 Author
 - Name: Chomphunut Butrdee
 - Email: chomphunutbutrdee2546@gmail.com
-
-## 📸 Demo
-![Demo Screenshot](https://raw.githubusercontent.com/chomphunuttt03/ysth-rag-system/main/image.png)
